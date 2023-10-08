@@ -16,6 +16,9 @@ Le jeu est entièrement codé en **GML** *(GameMaker Language)*, langage s'appar
 Vous déplacez le gobeur (Pac-Man) à travers le labyrinthe où rôdent les 4 fantômes du jeu original. Il faut les éviter et compléter le stage en mangeant les 170 **gommes** présentes dans le stage.
 
 ### Bonus
+Les fruits ne sont pas implentés mais étaient en développement, ils respectent évidemment la table de scores originale. 
+La voici :
+
 | Fruit         | Bonus         |
 | --------------------- |:-------------:|
 | Cerise (nv. 1)        | 100 points    |
