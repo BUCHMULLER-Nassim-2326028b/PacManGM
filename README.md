@@ -34,10 +34,10 @@ Voici les différents objectifs visés durant le développement et sont marqués
 - [ ] Implémenter les fruits
 - [ ] Reproduire la physique des fantômes à l'identique (compliqué)
 
-## Compiler
+## Execution et compilation
+Ouvrir le logiciel GameMaker et importer le projet principal (Pac-Man.yyp)
 Il est nécessaire de télécharger le logiciel propriétaire GameMaker pour exporter ce projet (version Studio 2.3 et ultérieur).
 
-Téléchargement
 <details> 
 Télécharger ici, payant(https://gamemaker.io/fr)
 </details>
