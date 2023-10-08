@@ -1,4 +1,4 @@
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Pacman.svg/1944px-Pacman.svg.png "Pac-Man GM")
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Pacman.svg/1944px-Pacman.svg.png "Pac-Man GM" | width=100)
 
 # Pac-Man GM
 Pour le rendu R.103 de ARSENA Claire et BUCHMULLER Nassim.
