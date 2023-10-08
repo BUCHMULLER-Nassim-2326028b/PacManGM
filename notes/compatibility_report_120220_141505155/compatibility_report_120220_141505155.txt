@@ -1,0 +1,52 @@
+! ! ! La police Pixel utilise une police (8bitoperator JVE) qui n’est pas installée sur ce système. La police n'a PAS été régénérée
+La texture de police GameMaker Studio 1 a été sauvegardée à ${project_dir}\fonts\Pixel\Pixel.gms1.png
+Conversion de l'événement objet en script GML : ${project_dir}\objects\puck2p\Collision_ea8d62dd-d938-476f-a67e-0d6a7e534ad9.gml
+Action 4 non effectuée car elle s'applique à <non défini>
+
+L'icône macOS ${options_dir}\mac\icons\icon512.png est écrite en 32 bits
+Le script d'installation de Windows NSIS revient aux valeurs par défaut en raison des modifications apportées à GameMaker Studio 2
+Audiogroupe manquant pour le son : 'sound0' - le groupe audio revient aux valeurs par défaut
+Audiogroupe manquant pour le son : 'pac' - le groupe audio revient aux valeurs par défaut
+Audiogroupe manquant pour le son : 'pacmandeath' - le groupe audio revient aux valeurs par défaut
+Audiogroupe manquant pour le son : 'eatghost' - le groupe audio revient aux valeurs par défaut
+Audiogroupe manquant pour le son : 'eatghostmspac' - le groupe audio revient aux valeurs par défaut
+Audiogroupe manquant pour le son : 'blueghos' - le groupe audio revient aux valeurs par défaut
+Audiogroupe manquant pour le son : 'music' - le groupe audio revient aux valeurs par défaut
+Audiogroupe manquant pour le son : 'winner' - le groupe audio revient aux valeurs par défaut
+Audiogroupe manquant pour le son : 'mspac_chomp' - le groupe audio revient aux valeurs par défaut
+Audiogroupe manquant pour le son : 'mspac' - le groupe audio revient aux valeurs par défaut
+Audiogroupe manquant pour le son : 'mspacdeath' - le groupe audio revient aux valeurs par défaut
+Audiogroupe manquant pour le son : 'snd_rdy2' - le groupe audio revient aux valeurs par défaut
+Les profondeurs de calque importées pour la (les) pièce(s) 'intro1, Level1, Level2, intro2' n'étaient pas correctement espacées. Corriger, sinon cela aura des résultats indéfinis dans le jeu.
+Vitesse de jeu fixée à 30
+Ajout du script de compatibilité 'action/action_another_room.gml'
+Ajout du script de compatibilité 'action/action_change_object.gml'
+Ajout du script de compatibilité 'action/action_color.gml'
+Ajout du script de compatibilité 'action/action_draw_life_images.gml'
+Ajout du script de compatibilité 'action/action_draw_sprite.gml'
+Ajout du script de compatibilité 'action/action_draw_variable.gml'
+Ajout du script de compatibilité 'action/action_end_game.gml'
+Ajout du script de compatibilité 'action/action_end_sound.gml'
+Ajout du script de compatibilité 'action/action_font.gml'
+Ajout du script de compatibilité 'action/action_if_aligned.gml'
+Ajout du script de compatibilité 'action/action_if_life.gml'
+Ajout du script de compatibilité 'action/action_if_number.gml'
+Ajout du script de compatibilité 'action/action_if_variable.gml'
+Ajout du script de compatibilité 'action/action_kill_object.gml'
+Ajout du script de compatibilité 'action/action_load_game.gml'
+Ajout du script de compatibilité 'action/action_message.gml'
+Ajout du script de compatibilité 'action/action_move.gml'
+Ajout du script de compatibilité 'action/action_move_start.gml'
+Ajout du script de compatibilité 'action/action_restart_game.gml'
+Ajout du script de compatibilité 'action/action_save_game.gml'
+Ajout du script de compatibilité 'action/action_set_alarm.gml'
+Ajout du script de compatibilité 'action/action_set_life.gml'
+Ajout du script de compatibilité 'action/action_set_relative.gml'
+Ajout du script de compatibilité 'action/action_set_score.gml'
+Ajout du script de compatibilité 'action/action_snap.gml'
+Ajout du script de compatibilité 'action/action_sound.gml'
+Ajout du script de compatibilité 'action/action_sprite_set.gml'
+Ajout du script de compatibilité 'action/action_timeline_set.gml'
+Ajout du script de compatibilité 'action/action_wrap.gml'
+Ajout du script de compatibilité 'action/__init_action.gml'
+Ajout du script de compatibilité '__init_global.gml'
