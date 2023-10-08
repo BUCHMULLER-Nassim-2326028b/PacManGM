@@ -9,7 +9,7 @@ Remake de Pac-Man fait sur le moteur GameMaker. Etalé sur 4 ans, de 2018 à 202
 ## Description
 Ce jeu à été programmé sur plusieurs années (avec beaucoup de pauses) mais il n'a jamais été fini. Il est tout de même très ambitieux. Il a été construit pour être un remake fidèle du jeu original.
 
-Le jeu est entièrement codé en GML, langage s'apparentant à un mélange de C++ et de Delphi. 
+Le jeu est entièrement codé en **GML** *(GameMaker Language)*, langage s'apparentant à un mélange de C++ et de Delphi. 
 
 ## Objectifs
 Voici les différents objectifs visés durant le développement et sont marqués ceux atteints :
