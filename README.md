@@ -13,19 +13,19 @@ Le jeu est entièrement codé en **GML** *(GameMaker Language)*, langage s'appar
 
 # Comment jouer
 ### Bases
-Vous déplacez le gobeur (Pac-Man) à travers le labyrinthe où rôdent les 4 fantômes du jeu original. Il faut les éviter et compléter le stage en mangeant le plus de **gommes** possible.
+Vous déplacez le gobeur (Pac-Man) à travers le labyrinthe où rôdent les 4 fantômes du jeu original. Il faut les éviter et compléter le stage en mangeant les 170 **gommes** présentes dans le stage.
 
 ### Bonus
 | Fruit         | Bonus         |
-| ------------- |:-------------:|
-| Cerise (nv. 1)| 100 points    |
-| Fraise        | 300 points    |
-| Orange        | 500 points    |
-| Orange        | 500 points    |
-| Melon         | 1 000 points  |
-| Envahisseur   | 2 000 points  |
-| Cloche        | 3 000 points  |
-| Clé           | 5 000 points  |
+| --------------------- |:-------------:|
+| Cerise (nv. 1)        | 100 points    |
+| Fraise (nv. 2)        | 300 points    |
+| Orange (nv. 3/4)      | 500 points    |
+| Pomme (nv. 5/6)       | 700 points    |
+| Melon (nv. 7/8)       | 1 000 points  |
+| Envahisseur (nv. 9/10)| 2 000 points  |
+| Cloche (nv. 11/12)    | 3 000 points  |
+| Clé (nv. 13-)         | 5 000 points  |
 
 ## Objectifs
 Voici les différents objectifs visés durant le développement et sont marqués ceux atteints :
@@ -33,3 +33,11 @@ Voici les différents objectifs visés durant le développement et sont marqués
 - [x] Recréer un environnement proche du jeu original, avec les mêmes scores et le même terrain
 - [ ] Implémenter les fruits
 - [ ] Reproduire la physique des fantômes à l'identique (compliqué)
+
+## Compiler
+Il est nécessaire de télécharger le logiciel propriétaire GameMaker pour exporter ce projet (version Studio 2.3 et ultérieur).
+
+Téléchargement
+<details> 
+[Télécharger ici, payant](https://gamemaker.io/fr)
+</details>
